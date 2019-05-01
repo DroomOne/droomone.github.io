@@ -1,7 +1,7 @@
 <package>
-	<id>com.droomone.tabblocker12</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<id>com.droomone.tabblocker</id>
+	<name>TabBlocker</name>
+	<version>1.3</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Tabblocker12!</description>
+		<description>TabBlocker!</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>

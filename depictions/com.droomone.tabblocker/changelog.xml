@@ -1,0 +1,7 @@
+<changelog>
+	<changes>
+		<version>1.3</version>
+		<change>Updated for A12 (ARM64e)</change>
+		<change>Updated for iOS 12</change>
+	</changes>
+</changelog>
